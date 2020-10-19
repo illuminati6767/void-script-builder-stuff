@@ -1,5 +1,7 @@
 require(5593377656).Dark("illuminati6767")
+--[[
 x = gun boi
 c = teleport
 v = laser boi
 m = activate power thing idk
+--]]
