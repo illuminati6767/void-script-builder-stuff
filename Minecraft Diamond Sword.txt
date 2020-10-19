@@ -1,5 +1,7 @@
 require(5300507859).Dark("illuminati6767")
+--[[
 g = respawn
 leftclick = slash sword
 e = mini tnt
 q = play music (you cant turn it off unless u respawn)
+--]]
