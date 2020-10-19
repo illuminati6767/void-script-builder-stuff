@@ -1,0 +1,9 @@
+require(4939065623).load("illuminati6767")
+--Made by Helkern
+only 2 abilities sadly
+-->>>>GUN STUFF<<<<--
+q = toggle gun mode
+r = reload
+-->>>>MECH SUIT<<<<--
+e = toggle mech suit
+HoldLeftClick = shoot a miniguns
