@@ -1,0 +1,2 @@
+require(4935275557):Subaru112("illuminati6767", "Subaru112's SCP-106")
+-- DO NOT DELETE THE "Subaru112's SCP-106" OR ELSE IT WONT WORK.
