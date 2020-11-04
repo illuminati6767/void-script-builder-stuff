@@ -1,0 +1,7 @@
+require(2566102227)("illuminati6767","01001100 01001111 01001100")
+--[[
+leftclick = slash linked sword
+z = throw a bomb
+x = throw dodgeballs (doesnt do damage, only flings)
+c = shoot rocket launcher
+--]]
