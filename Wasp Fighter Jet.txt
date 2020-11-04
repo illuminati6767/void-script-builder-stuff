@@ -1,0 +1,5 @@
+require(5860060462).load("illuminati6767")
+--[[
+x = toggle move
+q = fire a rocket (doesnt work with dummies)
+--]]
