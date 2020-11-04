@@ -1,0 +1,9 @@
+require(4677541512).load("illuminati6767")
+T = toggle pistol
+Y = toggle shotgun
+U = toggle sniper rifle
+q + e = dash sideways
+z = roll forward
+h = toggle light (for guns only)
+c = do something with the pistol (idk lol)
+f = inject a healing needle into yourself
